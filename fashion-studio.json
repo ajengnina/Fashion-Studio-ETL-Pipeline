@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fashion-studio-460302",
+  "private_key_id": "492da06728fdf320297c1ad7e96d095bd531e52e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNewUDb7FjOwkn\nk7dY0uHwucqTDbYCfxlCeiNAFNgFOSRx8ZZzr0P8R7cdk/I22ljpB7FEgVGdnifu\ng+aIb0sE13bUEl0wvl1JYlZLE41U3/PawLcT10U2fhFZJ2JvXCmKsxaDDxOzJFnm\nwPAzTs6nD+C5SP7FSC4yxoTV37/oNpYb2pbnQSh6rufymdNnfAo0qteb4xwEauiI\nMxCaR+8BwlZPHGOwc6ikzZ9kRHw4iVhITNDvHVQMAmpEbbzsUDg8X74xs50LUaqZ\nwgo6bstTcpn9ZvdU0i0yDRzzV149p8GeYBk28yFyWfiiuCwjy+vBV5szQU44dpxf\nWsfP5pVpAgMBAAECggEAD3Iixnc6CfvlNGXG050XiZNHul3em4mvDgeVGIMwmVTq\nK8wFm5jWRxOjfMxTGeM4KX0v6ra/WjYqKYRd+w3FoX2qU6b1PR2kMMjc9HwJ5NJI\nV/5iTLIjBGV925oprLYMc94CMFQc7puKC/3fGHZBM77ubTMi3pTOTzgLwnF1MSjt\nv/9BCBw01a/anwBMzRAbDAUhRyabS7BzIz+b/cGbeIHbLbWuuciy+EoPZbkil8y3\nUUQdPyMZrTUDZ+hDlNXPPhx7pHEptnY402+OPwQdMIZQCzlqycPo1WVyQrrhsD3w\nifeCYreoe/BaUOoTtA/8VaFy+A9ACreIAXFOQ9lEkQKBgQDyBp0TF44tsUb17uXw\nYBFhcecmf7IXOxCWpSn0BrIdI9iiuejyJY37JiQMpJvCcZxIMdaGLLmCx7q2F+KQ\nMq1/30V8VhjiZiee5BtrOiTDdE5KbDFyB8X8j4mBGstOxlI9kbWAqLtNfeqTL0MV\n62WMN9d74iX73aHLB0lXjik5kQKBgQDZWDrOAVOWYEVJvuel34F3WtgmkBYaf8U1\nULBUYzn8Slw5He9hBPX39iRMfxqIUpRTgcsQ6l9BEsX8gCw8Ilg7A8g8jFxyf34s\n6DnDmbKbQ4GIZU6X4CNG4SgVW3j2ANcb4Iuh4MTdLhsBK5hWzJ7qqviG6LKArU8r\n1GrpaX9yWQKBgQDVxGumOk71IriXbiugFWoklHNiuLT2+c9cD4Ovqt5VCJ1GlUgf\n4HW4V2bN1/JPWwN7bLGbDxPHZFwQi6YsUOaXo//+oxkVlr72A2oIWnGwRSEFcOx3\nWFBSFAGSi7T43ggzo2gZvG67MjUnTT5GtQSbRZNJM2TzQj2uUsA/2iulUQKBgF1T\namS84xSGIBprc/Kgx2nlwzzD0Anu5VJgZGbH+MUhdPo9pWVGiQvBUJLcXRs+Qlyd\nNgH8cYxysDsdGmFz6ejlVdzR9HxhzF8iFHOuEqhi00MrJRVH9D3iPqD1Fzqi37sj\nrzGCX2YN/yCAhLh4wqBHa9IaJ1Pjl0RdwM6bM1N5AoGABuGsNYg/PTrlPSyxr+Md\nnfl6rd3auzGDUETUD1RLdLKNsdX+v1WzizhMp5jqRhALSPwg6zuCW7e0zjiDuIQW\n7jyom75nM//wklhVISWYm8RixbdbMlpBNnPRG5u03qEukwzSxr9SWsTyklbDogTr\n5sQAYIKYCi0OjHjjUL98M/4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fashion-studio@fashion-studio-460302.iam.gserviceaccount.com",
+  "client_id": "107927197056832519047",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fashion-studio%40fashion-studio-460302.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
